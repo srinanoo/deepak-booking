@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a97d9e2.css",
+    "main.js": "/static/js/main.7bd3fc88.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bbresp.png": "/static/media/bbresp.31d5cacc5f2ddf9fe1e2.png",
+    "static/media/hillresort.jpg": "/static/media/hillresort.b21c8d050ba99d90b86c.jpg",
+    "static/media/room-4.jpeg": "/static/media/room-4.10d2e64aa888c177d9df.jpeg",
+    "static/media/details-4.jpeg": "/static/media/details-4.f205365481a6e6d8d00c.jpeg",
+    "index.html": "/index.html",
+    "main.1a97d9e2.css.map": "/static/css/main.1a97d9e2.css.map",
+    "main.7bd3fc88.js.map": "/static/js/main.7bd3fc88.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a97d9e2.css",
+    "static/js/main.7bd3fc88.js"
+  ]
+}
