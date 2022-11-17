@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://srinanoo.github.io/deepak-booking/static/css/main.8385732e.css",
-    "main.js": "https://srinanoo.github.io/deepak-booking/static/js/main.3ae0a0fd.js",
+    "main.js": "https://srinanoo.github.io/deepak-booking/static/js/main.0aa2e03e.js",
     "static/js/787.c4e7f8f9.chunk.js": "https://srinanoo.github.io/deepak-booking/static/js/787.c4e7f8f9.chunk.js",
     "static/media/bbresp.png": "https://srinanoo.github.io/deepak-booking/static/media/bbresp.31d5cacc5f2ddf9fe1e2.png",
     "static/media/hillresort.jpg": "https://srinanoo.github.io/deepak-booking/static/media/hillresort.b21c8d050ba99d90b86c.jpg",
@@ -9,11 +9,11 @@
     "static/media/details-4.jpeg": "https://srinanoo.github.io/deepak-booking/static/media/details-4.f205365481a6e6d8d00c.jpeg",
     "index.html": "https://srinanoo.github.io/deepak-booking/index.html",
     "main.8385732e.css.map": "https://srinanoo.github.io/deepak-booking/static/css/main.8385732e.css.map",
-    "main.3ae0a0fd.js.map": "https://srinanoo.github.io/deepak-booking/static/js/main.3ae0a0fd.js.map",
+    "main.0aa2e03e.js.map": "https://srinanoo.github.io/deepak-booking/static/js/main.0aa2e03e.js.map",
     "787.c4e7f8f9.chunk.js.map": "https://srinanoo.github.io/deepak-booking/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8385732e.css",
-    "static/js/main.3ae0a0fd.js"
+    "static/js/main.0aa2e03e.js"
   ]
 }
